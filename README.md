@@ -8,6 +8,11 @@
 
 BloodPengu is a [Linux Attack path-management (APM)](https://pengu-apm.github.io/) based `JavaScript` and `Go-lang`, able to digest JSON data to be displayed in Front-end UI for <ins>Security</ins> to <ins>identify and eliminate</ins> attack-paths.
 
+<img src="./assets/images/ui/attack-path-common.jpeg" width="90%"/><br/>
+<img src="./assets/images/ui/attack-path-massive.jpeg" width="90%"/><br/>
+<img src="./assets/images/ui/attack-path-lowlight.jpeg" width="90%"/><br/>
+<img src="./assets/images/ui/attack-path-highlight.jpeg" width="90%"/><br/>
+
 <ins>Security</ins> can utilize BloodPengu to rapidly discover sophisticated attack paths otherwise impossible to identify manually, while defenders can proactively identify and mitigate these risks.
 
 BloodPengu is intended to be used by All Security roles from Defense and Offense to create deeper advanced Security architect on a `Linux/Unix` based Infra.
